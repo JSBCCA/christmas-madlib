@@ -22,3 +22,7 @@ body {
 .color {
   color: rgb(255, 0, 0);
 }
+
+.title {
+  text-transform: capitalize;
+}
