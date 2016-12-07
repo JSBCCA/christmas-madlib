@@ -13,8 +13,12 @@ body {
 .white {
   background-color: rgb(255, 255, 255);
   display: inline-block;
-  visibility: visible;
+  visibility: hidden;
   margin-top: 2%;
   padding-right: 10px;
   padding-left: 4px;
+}
+
+.color {
+  color: rgb(255, 0, 0);
 }
